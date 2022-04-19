@@ -1,0 +1,68 @@
+{
+    "items": [
+        {
+            "sys": { "id": "1" },
+            "fields": {
+                "title": "Funky",
+                "price": 29.99,
+                "image": { "fields": { "file": { "url": "./assets/images/product-1.jpeg" } } }
+            }
+        },
+        {
+            "sys": { "id": "2" },
+            "fields": {
+                "title": "Oldy",
+                "price": 19.99,
+                "image": { "fields": { "file": { "url": "./assets/images/product-2.jpeg" } } }
+            }
+        },
+        {
+            "sys": { "id": "3" },
+            "fields": {
+                "title": "Pro",
+                "price": 49.99,
+                "image": { "fields": { "file": { "url": "./assets/images/product-3.jpeg" } } }
+            }
+        },
+        {
+            "sys": { "id": "4" },
+            "fields": {
+                "title": "Legend",
+                "price": 59.99,
+                "image": { "fields": { "file": { "url": "./assets/images/product-4.jpeg" } } }
+            }
+        },
+        {
+            "sys": { "id": "5" },
+            "fields": {
+                "title": "Homely",
+                "price": 19.99,
+                "image": { "fields": { "file": { "url": "./assets/images/product-5.jpeg" } } }
+            }
+        },
+        {
+            "sys": { "id": "6" },
+            "fields": {
+                "title": "Entrepreneur",
+                "price": 69.99,
+                "image": { "fields": { "file": { "url": "./assets/images/product-6.jpeg" } } }
+            }
+        },
+        {
+            "sys": { "id": "7" },
+            "fields": {
+                "title": "Beauty",
+                "price": 29.99,
+                "image": { "fields": { "file": { "url": "./assets/images/product-7.jpeg" } } }
+            }
+        },
+        {
+            "sys": { "id": "8" },
+            "fields": {
+                "title": "York",
+                "price": 9.99,
+                "image": { "fields": { "file": { "url": "./assets/images/product-8.jpeg" } } }
+            }
+        }
+    ]
+}
