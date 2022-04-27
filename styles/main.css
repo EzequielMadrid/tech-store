@@ -83,15 +83,6 @@
     border-radius: 20px;
 }
 
-.banner-title {
-    font-size: 3.4rem;
-    text-transform: uppercase;
-    letter-spacing: var(--mainSpacing);
-    margin-bottom: 10px;
-    color: var(--mainBlack);
-    font-family: "Stylish", sans-serif;
-}
-
 .banner-btn {
     padding: 0.3rem 3rem;
     letter-spacing: var(--mainSpacing);
@@ -111,7 +102,7 @@
 }
 
 a {
-    padding: 0.3rem 3rem;
+    padding: 0.7rem 3rem;
     letter-spacing: var(--mainSpacing);
     font-size: 1rem;
     background: linear-gradient(to right, #252, #484, #ccc);

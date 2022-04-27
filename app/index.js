@@ -161,7 +161,7 @@ class UI {
                     lowerAmount.previousElementSibling.innerText = tempItem.amount;
                 } else {
                     cartContent.removeChild(lowerAmount.parentElement.parentElement);
-                    removeItem(id);
+                    this.removeItem(id);
                 }
             }
         });
