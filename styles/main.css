@@ -75,6 +75,12 @@
     justify-content: center;
 }
 
+@media all and (max-width: 600px) {
+    .hero {
+        background: url("../assets/images/bg-media.jpg") center/cover no-repeat;
+    }
+}
+
 .banner {
     text-align: center;
     background: rgba(255, 255, 255, 0.8);
