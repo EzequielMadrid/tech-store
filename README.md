@@ -4,6 +4,6 @@ Hoy en día se puede hacer todo más rápido, fácil y dinámico usando funcione
 **********************************
 PROGRAMACION ORIENTADA A OBJETOS (POO) 
 **********************************
-paradigma de programación usado en otros lenguages
+Estilo de programación usado en otros lenguages que Javascript ACEPTA, porque no le importa nada xD
 **********************************
-si no sabés Javascript(y venís de otro lenguage), es más intuitivo de aprender
+Si no sabés Javascript(y venís de otro lenguage), es más intuitivo de aprender
