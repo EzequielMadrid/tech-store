@@ -1,6 +1,4 @@
-# store-tech
-e-commerce 
-
+# !important
 **********************************
 Hoy en día se puede hacer todo más rápido, fácil y dinámico usando funciones. Este es el modo más "cavernícola" de hacer un e-commerce. Usando "class"... que no tienen nada que ver con el objeto "clase".
 **********************************
