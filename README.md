@@ -1,1 +1,1 @@
-FINAL(CH)
+FINAL(CoderHouse)
